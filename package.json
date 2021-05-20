@@ -1,0 +1,25 @@
+{
+  "name": "system-rest",
+  "version": "1.0.0",
+  "description": "A RESTful systems configuring",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredrikBlix/system-rest.git"
+  },
+  "keywords": [
+    "systems",
+    "config",
+    "REST"
+  ],
+  "author": "Fredrik Blix <fredrik.blix@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FredrikBlix/system-rest/issues"
+  },
+  "homepage": "https://github.com/FredrikBlix/system-rest#readme"
+}
